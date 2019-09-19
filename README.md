@@ -12,4 +12,4 @@ Before coming:
 
 * Download and install Flask at http://flask.palletsprojects.com/en/1.1.x/installation/#installation
 
-* Clone the starter github repository at https://github.com/demurewolf/flask-wrkshp-start
+* Clone the starter github repository you see here!
