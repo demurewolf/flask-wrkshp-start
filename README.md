@@ -6,6 +6,7 @@ This will be an introduction to Flask, a web application framework in python. It
 
 This workshop is great if you want to develop personal projects or kickstart that hackathon idea.
 
+This repo will contain starter files for workshop.
  
 
 Before coming:
