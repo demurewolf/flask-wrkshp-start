@@ -11,6 +11,9 @@ This repo will contain starter files for workshop.
 
 Before coming:
 
-* Download and install Flask at http://flask.palletsprojects.com/en/1.1.x/installation/#installation
-
 * Clone the starter github repository you see here!
+
+While working on this project, don't forget to activate the python virtual environment!
+* `. venv/bin/activate` for linux
+* `venv\Scripts\activate` for windows
+
